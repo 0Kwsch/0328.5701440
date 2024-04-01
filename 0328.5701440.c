@@ -1,8 +1,8 @@
 ﻿#include <stdio.h>
 #define MAX_DEGREE 101
 
-// 4x^3 + 3x^2 + 2x + 1
-// 3x^2 + 2x +  8
+/* 4x ^ 3 + 3x ^ 2 + 2x + 1
+ 3x^2 + 2x +  8*/
 
 typedef struct {
 	int degree;
