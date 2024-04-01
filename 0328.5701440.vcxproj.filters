@@ -18,5 +18,8 @@
     <ClCompile Include="0328.5701440.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0328.5701440 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
