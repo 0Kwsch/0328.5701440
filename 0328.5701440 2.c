@@ -1,9 +1,9 @@
 #include <stdio.h>
 #define MAX_DEGREE 101
 
-//*7x^6 + 5x^3 + 9x^2 + 1
+/*7x^6 + 5x^3 + 9x^2 + 1
 
-//5x^3 + 2x^2 + x + 10
+5x^3 + 2x^2 + x + 10*/
 
 typedef struct {
 	int degree;
